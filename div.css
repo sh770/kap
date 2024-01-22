@@ -13,3 +13,11 @@ body{
     top: 50%;
     left: 0px;
 }
+#div2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    right: 50px;
+    }
